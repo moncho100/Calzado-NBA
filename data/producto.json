@@ -8,7 +8,7 @@
     {"id": 8, "nombre": "Curry-9-Play-Big-Junior","precio": 129,"jugador":"Curry","cantidad":1, "imagen": "https://basketworld.com/18956-home_default/curry-9-play-big-junior.jpg"},
     {"id": 9, "nombre": "Kyrie-Flytrap-V-Triple-Black","precio": 89,"jugador":"Irving","cantidad":1, "imagen": "https://basketworld.com/19814-home_default/kyrie-flytrap-v-triple-black.jpg"},
     {"id": 10, "nombre": "Kyrie-Flytrap-v-White-Volt","precio": 89,"jugador":"Irving","cantidad":1, "imagen": "https://basketworld.com/19655-home_default/kyrie-flytrap-v-white-volt.jpg"},
-    {"id": 11, "nombre": "Kyrie-Infinity-Keep-Sue-Fresh","precio": 129,"jugador":"Irving", "imagen": "https://basketworld.com/19444-home_default/kyrie-infinity-keep-sue-fresh.jpg"},
+    {"id": 11, "nombre": "Kyrie-Infinity-Keep-Sue-Fresh","precio": 129,"jugador":"Irving","cantidad":1, "imagen": "https://basketworld.com/19444-home_default/kyrie-infinity-keep-sue-fresh.jpg"},
     {"id": 12, "nombre": "Kyrie-Infinity-Purple","precio": 129,"jugador":"Irving","cantidad":1, "imagen": "https://basketworld.com/19428-home_default/kyrie-infinity-purple.jpg"},
     {"id": 13, "nombre": "Kyrie-Infinity-Fire-And-Ice","precio": 129,"jugador":"Irving","cantidad":1,"imagen": "https://basketworld.com/19333-home_default/kyrie-infinity-001.jpg"},
     {"id": 14, "nombre": "Harden-6-Black-And-White","precio": 149,"jugador":"Harden","cantidad":1, "imagen": "https://basketworld.com/19762-home_default/harden-6-black-and-white.jpg"},
