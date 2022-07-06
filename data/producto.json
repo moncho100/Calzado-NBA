@@ -1,4 +1,4 @@
-[   {"id": 1, "nombre": "Curry-8-butter-flow","precio":159,"jugador":"Curry","cantidad":1, "imagen":"../assets/Curry/curry-8-butter-flow.jpg"},
+[   {"id": 1, "nombre": "Curry-8-butter-flow","precio":159,"jugador":"Curry","cantidad":1, "imagen":"https://basketworld.com/19181-home_default/curry-9-taking-cookies-junior.jpg"},
     {"id": 2, "nombre": "Curry-8-flow-black","precio": 159,"jugador":"Curry","cantidad":1, "imagen": "../assets/Curry/curry-8-flow-black.jpg"},
     {"id": 3,"nombre":  "Curry-8-flow-like-water","precio": 159,"jugador":"Curry", "cantidad":1, "imagen": "../assets/Curry/curry-8-flow-like-water.jpg"},
     {"id": 4, "nombre": "Curry-8-flow-snake","precio": 159,"jugador":"Curry","cantidad":1, "imagen": "../assets/Curry/curry-8-flow-snake.jpg"},
